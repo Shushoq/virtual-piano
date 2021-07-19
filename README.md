@@ -15,4 +15,3 @@
 - JavaScript
 - HTML
 - СSS
-- Canvas
